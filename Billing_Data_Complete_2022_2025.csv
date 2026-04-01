@@ -1,0 +1,379 @@
+Date,Parameter,Value
+2022-07-01,Bill from CBC China,197.0
+2022-07-01,Bill from CBC Hong Kong,98.0
+2022-07-01,Bill from CBC Singapore,8.0
+2022-07-01,Bill from CBC Taiwan,0.0
+2022-07-01,Bill from CBC Tech HK,0.0
+2022-07-01,Bill from CNO,0.0
+2022-07-01,Bill from CNT,0.0
+2022-07-01,Bill from sinocomm,0.0
+2022-07-01,Bill from 北京紫讯,0.0
+2022-08-01,Bill from CBC China,215.0
+2022-08-01,Bill from CBC Hong Kong,91.0
+2022-08-01,Bill from CBC Singapore,8.0
+2022-08-01,Bill from CBC Taiwan,0.0
+2022-08-01,Bill from CBC Tech HK,0.0
+2022-08-01,Bill from CNO,0.0
+2022-08-01,Bill from CNT,0.0
+2022-08-01,Bill from sinocomm,0.0
+2022-08-01,Bill from 北京紫讯,0.0
+2022-09-01,Bill from CBC China,190.0
+2022-09-01,Bill from CBC Hong Kong,111.0
+2022-09-01,Bill from CBC Singapore,13.0
+2022-09-01,Bill from CBC Taiwan,0.0
+2022-09-01,Bill from CBC Tech HK,0.0
+2022-09-01,Bill from CNO,0.0
+2022-09-01,Bill from CNT,0.0
+2022-09-01,Bill from sinocomm,0.0
+2022-09-01,Bill from 北京紫讯,0.0
+2022-10-01,Bill from CBC China,186.0
+2022-10-01,Bill from CBC Hong Kong,102.0
+2022-10-01,Bill from CBC Singapore,8.0
+2022-10-01,Bill from CBC Taiwan,0.0
+2022-10-01,Bill from CBC Tech HK,0.0
+2022-10-01,Bill from CNO,0.0
+2022-10-01,Bill from CNT,0.0
+2022-10-01,Bill from sinocomm,0.0
+2022-10-01,Bill from 北京紫讯,0.0
+2022-11-01,Bill from CBC China,194.0
+2022-11-01,Bill from CBC Hong Kong,105.0
+2022-11-01,Bill from CBC Singapore,8.0
+2022-11-01,Bill from CBC Taiwan,0.0
+2022-11-01,Bill from CBC Tech HK,0.0
+2022-11-01,Bill from CNO,0.0
+2022-11-01,Bill from CNT,0.0
+2022-11-01,Bill from sinocomm,0.0
+2022-11-01,Bill from 北京紫讯,0.0
+2022-12-01,Bill from CBC China,324.0
+2022-12-01,Bill from CBC Hong Kong,106.0
+2022-12-01,Bill from CBC Singapore,10.0
+2022-12-01,Bill from CBC Taiwan,0.0
+2022-12-01,Bill from CBC Tech HK,0.0
+2022-12-01,Bill from CNO,0.0
+2022-12-01,Bill from CNT,0.0
+2022-12-01,Bill from sinocomm,0.0
+2022-12-01,Bill from 北京紫讯,0.0
+2023-01-01,Bill from CBC China,193.0
+2023-01-01,Bill from CBC Hong Kong,100.0
+2023-01-01,Bill from CBC Singapore,8.0
+2023-01-01,Bill from CBC Taiwan,0.0
+2023-01-01,Bill from CBC Tech HK,0.0
+2023-01-01,Bill from CNO,0.0
+2023-01-01,Bill from CNT,0.0
+2023-01-01,Bill from sinocomm,0.0
+2023-01-01,Bill from 北京紫讯,0.0
+2023-02-01,Bill from CBC China,215.0
+2023-02-01,Bill from CBC Hong Kong,96.0
+2023-02-01,Bill from CBC Singapore,9.0
+2023-02-01,Bill from CBC Taiwan,0.0
+2023-02-01,Bill from CBC Tech HK,0.0
+2023-02-01,Bill from CNO,0.0
+2023-02-01,Bill from CNT,0.0
+2023-02-01,Bill from sinocomm,0.0
+2023-02-01,Bill from 北京紫讯,0.0
+2023-03-01,Bill from CBC China,212.0
+2023-03-01,Bill from CBC Hong Kong,96.0
+2023-03-01,Bill from CBC Singapore,8.0
+2023-03-01,Bill from CBC Taiwan,0.0
+2023-03-01,Bill from CBC Tech HK,0.0
+2023-03-01,Bill from CNO,0.0
+2023-03-01,Bill from CNT,0.0
+2023-03-01,Bill from sinocomm,0.0
+2023-03-01,Bill from 北京紫讯,0.0
+2023-04-01,Bill from CBC China,222.0
+2023-04-01,Bill from CBC Hong Kong,100.0
+2023-04-01,Bill from CBC Singapore,8.0
+2023-04-01,Bill from CBC Taiwan,0.0
+2023-04-01,Bill from CBC Tech HK,0.0
+2023-04-01,Bill from CNO,0.0
+2023-04-01,Bill from CNT,0.0
+2023-04-01,Bill from sinocomm,0.0
+2023-04-01,Bill from 北京紫讯,0.0
+2023-05-01,Bill from CBC China,190.0
+2023-05-01,Bill from CBC Hong Kong,98.0
+2023-05-01,Bill from CBC Singapore,8.0
+2023-05-01,Bill from CBC Taiwan,0.0
+2023-05-01,Bill from CBC Tech HK,0.0
+2023-05-01,Bill from CNO,0.0
+2023-05-01,Bill from CNT,0.0
+2023-05-01,Bill from sinocomm,0.0
+2023-05-01,Bill from 北京紫讯,0.0
+2023-06-01,Bill from CBC China,226.0
+2023-06-01,Bill from CBC Hong Kong,97.0
+2023-06-01,Bill from CBC Singapore,8.0
+2023-06-01,Bill from CBC Taiwan,0.0
+2023-06-01,Bill from CBC Tech HK,0.0
+2023-06-01,Bill from CNO,0.0
+2023-06-01,Bill from CNT,0.0
+2023-06-01,Bill from sinocomm,0.0
+2023-06-01,Bill from 北京紫讯,0.0
+2023-07-01,Bill from CBC China,196.0
+2023-07-01,Bill from CBC Hong Kong,104.0
+2023-07-01,Bill from CBC Singapore,8.0
+2023-07-01,Bill from CBC Taiwan,0.0
+2023-07-01,Bill from CBC Tech HK,0.0
+2023-07-01,Bill from CNO,0.0
+2023-07-01,Bill from CNT,0.0
+2023-07-01,Bill from sinocomm,0.0
+2023-07-01,Bill from 北京紫讯,0.0
+2023-08-01,Bill from CBC China,209.0
+2023-08-01,Bill from CBC Hong Kong,101.0
+2023-08-01,Bill from CBC Singapore,9.0
+2023-08-01,Bill from CBC Taiwan,0.0
+2023-08-01,Bill from CBC Tech HK,0.0
+2023-08-01,Bill from CNO,0.0
+2023-08-01,Bill from CNT,0.0
+2023-08-01,Bill from sinocomm,0.0
+2023-08-01,Bill from 北京紫讯,0.0
+2023-09-01,Bill from CBC China,189.0
+2023-09-01,Bill from CBC Hong Kong,94.0
+2023-09-01,Bill from CBC Singapore,8.0
+2023-09-01,Bill from CBC Taiwan,0.0
+2023-09-01,Bill from CBC Tech HK,0.0
+2023-09-01,Bill from CNO,0.0
+2023-09-01,Bill from CNT,0.0
+2023-09-01,Bill from sinocomm,0.0
+2023-09-01,Bill from 北京紫讯,0.0
+2023-10-01,Bill from CBC China,206.0
+2023-10-01,Bill from CBC Hong Kong,97.0
+2023-10-01,Bill from CBC Singapore,15.0
+2023-10-01,Bill from CBC Taiwan,0.0
+2023-10-01,Bill from CBC Tech HK,0.0
+2023-10-01,Bill from CNO,0.0
+2023-10-01,Bill from CNT,0.0
+2023-10-01,Bill from sinocomm,0.0
+2023-10-01,Bill from 北京紫讯,0.0
+2023-11-01,Bill from CBC China,206.0
+2023-11-01,Bill from CBC Hong Kong,96.0
+2023-11-01,Bill from CBC Singapore,11.0
+2023-11-01,Bill from CBC Taiwan,0.0
+2023-11-01,Bill from CBC Tech HK,0.0
+2023-11-01,Bill from CNO,0.0
+2023-11-01,Bill from CNT,0.0
+2023-11-01,Bill from sinocomm,0.0
+2023-11-01,Bill from 北京紫讯,0.0
+2023-12-01,Bill from CBC China,220.0
+2023-12-01,Bill from CBC Hong Kong,94.0
+2023-12-01,Bill from CBC Singapore,12.0
+2023-12-01,Bill from CBC Taiwan,0.0
+2023-12-01,Bill from CBC Tech HK,0.0
+2023-12-01,Bill from CNO,0.0
+2023-12-01,Bill from CNT,0.0
+2023-12-01,Bill from sinocomm,0.0
+2023-12-01,Bill from 北京紫讯,0.0
+2024-01-01,Bill from CBC China,177.0
+2024-01-01,Bill from CBC Hong Kong,100.0
+2024-01-01,Bill from CBC Singapore,15.0
+2024-01-01,Bill from CBC Taiwan,0.0
+2024-01-01,Bill from CBC Tech HK,0.0
+2024-01-01,Bill from CNO,0.0
+2024-01-01,Bill from CNT,0.0
+2024-01-01,Bill from sinocomm,0.0
+2024-01-01,Bill from 北京紫讯,0.0
+2024-02-01,Bill from CBC China,207.0
+2024-02-01,Bill from CBC Hong Kong,102.0
+2024-02-01,Bill from CBC Singapore,12.0
+2024-02-01,Bill from CBC Taiwan,0.0
+2024-02-01,Bill from CBC Tech HK,0.0
+2024-02-01,Bill from CNO,0.0
+2024-02-01,Bill from CNT,0.0
+2024-02-01,Bill from sinocomm,0.0
+2024-02-01,Bill from 北京紫讯,0.0
+2024-03-01,Bill from CBC China,192.0
+2024-03-01,Bill from CBC Hong Kong,94.0
+2024-03-01,Bill from CBC Singapore,11.0
+2024-03-01,Bill from CBC Taiwan,0.0
+2024-03-01,Bill from CBC Tech HK,0.0
+2024-03-01,Bill from CNO,0.0
+2024-03-01,Bill from CNT,0.0
+2024-03-01,Bill from sinocomm,0.0
+2024-03-01,Bill from 北京紫讯,0.0
+2024-04-01,Bill from CBC China,224.0
+2024-04-01,Bill from CBC Hong Kong,99.0
+2024-04-01,Bill from CBC Singapore,11.0
+2024-04-01,Bill from CBC Taiwan,0.0
+2024-04-01,Bill from CBC Tech HK,0.0
+2024-04-01,Bill from CNO,0.0
+2024-04-01,Bill from CNT,0.0
+2024-04-01,Bill from sinocomm,0.0
+2024-04-01,Bill from 北京紫讯,0.0
+2024-05-01,Bill from CBC China,187.0
+2024-05-01,Bill from CBC Hong Kong,93.0
+2024-05-01,Bill from CBC Singapore,10.0
+2024-05-01,Bill from CBC Taiwan,0.0
+2024-05-01,Bill from CBC Tech HK,0.0
+2024-05-01,Bill from CNO,0.0
+2024-05-01,Bill from CNT,0.0
+2024-05-01,Bill from sinocomm,0.0
+2024-05-01,Bill from 北京紫讯,0.0
+2024-06-01,Bill from CBC China,219.0
+2024-06-01,Bill from CBC Hong Kong,95.0
+2024-06-01,Bill from CBC Singapore,9.0
+2024-06-01,Bill from CBC Taiwan,0.0
+2024-06-01,Bill from CBC Tech HK,0.0
+2024-06-01,Bill from CNO,0.0
+2024-06-01,Bill from CNT,0.0
+2024-06-01,Bill from sinocomm,0.0
+2024-06-01,Bill from 北京紫讯,0.0
+2024-07-01,Bill from CBC China,201.0
+2024-07-01,Bill from CBC Hong Kong,100.0
+2024-07-01,Bill from CBC Singapore,12.0
+2024-07-01,Bill from CBC Taiwan,0.0
+2024-07-01,Bill from CBC Tech HK,0.0
+2024-07-01,Bill from CNO,0.0
+2024-07-01,Bill from CNT,0.0
+2024-07-01,Bill from sinocomm,0.0
+2024-07-01,Bill from 北京紫讯,0.0
+2024-08-01,Bill from CBC China,227.0
+2024-08-01,Bill from CBC Hong Kong,97.0
+2024-08-01,Bill from CBC Singapore,10.0
+2024-08-01,Bill from CBC Taiwan,0.0
+2024-08-01,Bill from CBC Tech HK,0.0
+2024-08-01,Bill from CNO,0.0
+2024-08-01,Bill from CNT,0.0
+2024-08-01,Bill from sinocomm,0.0
+2024-08-01,Bill from 北京紫讯,0.0
+2024-09-01,Bill from CBC China,206.0
+2024-09-01,Bill from CBC Hong Kong,102.0
+2024-09-01,Bill from CBC Singapore,12.0
+2024-09-01,Bill from CBC Taiwan,0.0
+2024-09-01,Bill from CBC Tech HK,0.0
+2024-09-01,Bill from CNO,0.0
+2024-09-01,Bill from CNT,0.0
+2024-09-01,Bill from sinocomm,0.0
+2024-09-01,Bill from 北京紫讯,0.0
+2024-10-01,Bill from CBC China,199.0
+2024-10-01,Bill from CBC Hong Kong,99.0
+2024-10-01,Bill from CBC Singapore,10.0
+2024-10-01,Bill from CBC Taiwan,0.0
+2024-10-01,Bill from CBC Tech HK,0.0
+2024-10-01,Bill from CNO,0.0
+2024-10-01,Bill from CNT,0.0
+2024-10-01,Bill from sinocomm,0.0
+2024-10-01,Bill from 北京紫讯,0.0
+2024-11-01,Bill from CBC China,204.0
+2024-11-01,Bill from CBC Hong Kong,93.0
+2024-11-01,Bill from CBC Singapore,13.0
+2024-11-01,Bill from CBC Taiwan,0.0
+2024-11-01,Bill from CBC Tech HK,0.0
+2024-11-01,Bill from CNO,0.0
+2024-11-01,Bill from CNT,0.0
+2024-11-01,Bill from sinocomm,0.0
+2024-11-01,Bill from 北京紫讯,0.0
+2024-12-01,Bill from CBC China,232.0
+2024-12-01,Bill from CBC Hong Kong,93.0
+2024-12-01,Bill from CBC Singapore,14.0
+2024-12-01,Bill from CBC Taiwan,0.0
+2024-12-01,Bill from CBC Tech HK,0.0
+2024-12-01,Bill from CNO,0.0
+2024-12-01,Bill from CNT,0.0
+2024-12-01,Bill from sinocomm,0.0
+2024-12-01,Bill from 北京紫讯,0.0
+2025-01-01,Bill from CBC China,197.0
+2025-01-01,Bill from CBC Hong Kong,96.0
+2025-01-01,Bill from CBC Singapore,18.0
+2025-01-01,Bill from CBC Taiwan,0.0
+2025-01-01,Bill from CBC Tech HK,0.0
+2025-01-01,Bill from CNO,0.0
+2025-01-01,Bill from CNT,0.0
+2025-01-01,Bill from sinocomm,0.0
+2025-01-01,Bill from 北京紫讯,0.0
+2025-02-01,Bill from CBC China,216.0
+2025-02-01,Bill from CBC Hong Kong,93.0
+2025-02-01,Bill from CBC Singapore,15.0
+2025-02-01,Bill from CBC Taiwan,0.0
+2025-02-01,Bill from CBC Tech HK,0.0
+2025-02-01,Bill from CNO,0.0
+2025-02-01,Bill from CNT,0.0
+2025-02-01,Bill from sinocomm,0.0
+2025-02-01,Bill from 北京紫讯,0.0
+2025-03-01,Bill from CBC China,224.0
+2025-03-01,Bill from CBC Hong Kong,92.0
+2025-03-01,Bill from CBC Singapore,17.0
+2025-03-01,Bill from CBC Taiwan,0.0
+2025-03-01,Bill from CBC Tech HK,0.0
+2025-03-01,Bill from CNO,0.0
+2025-03-01,Bill from CNT,0.0
+2025-03-01,Bill from sinocomm,0.0
+2025-03-01,Bill from 北京紫讯,0.0
+2025-04-01,Bill from CBC China,201.0
+2025-04-01,Bill from CBC Hong Kong,96.0
+2025-04-01,Bill from CBC Singapore,21.0
+2025-04-01,Bill from CBC Taiwan,0.0
+2025-04-01,Bill from CBC Tech HK,0.0
+2025-04-01,Bill from CNO,0.0
+2025-04-01,Bill from CNT,0.0
+2025-04-01,Bill from sinocomm,0.0
+2025-04-01,Bill from 北京紫讯,0.0
+2025-05-01,Bill from CBC China,194.0
+2025-05-01,Bill from CBC Hong Kong,94.0
+2025-05-01,Bill from CBC Singapore,18.0
+2025-05-01,Bill from CBC Taiwan,0.0
+2025-05-01,Bill from CBC Tech HK,0.0
+2025-05-01,Bill from CNO,0.0
+2025-05-01,Bill from CNT,0.0
+2025-05-01,Bill from sinocomm,0.0
+2025-05-01,Bill from 北京紫讯,0.0
+2025-06-01,Bill from CBC China,206.0
+2025-06-01,Bill from CBC Hong Kong,95.0
+2025-06-01,Bill from CBC Singapore,23.0
+2025-06-01,Bill from CBC Taiwan,0.0
+2025-06-01,Bill from CBC Tech HK,0.0
+2025-06-01,Bill from CNO,0.0
+2025-06-01,Bill from CNT,0.0
+2025-06-01,Bill from sinocomm,0.0
+2025-06-01,Bill from 北京紫讯,0.0
+2025-07-01,Bill from CBC China,200.0
+2025-07-01,Bill from CBC Hong Kong,94.0
+2025-07-01,Bill from CBC Singapore,24.0
+2025-07-01,Bill from CBC Taiwan,0.0
+2025-07-01,Bill from CBC Tech HK,0.0
+2025-07-01,Bill from CNO,0.0
+2025-07-01,Bill from CNT,0.0
+2025-07-01,Bill from sinocomm,0.0
+2025-07-01,Bill from 北京紫讯,0.0
+2025-08-01,Bill from CBC China,187.0
+2025-08-01,Bill from CBC Hong Kong,92.0
+2025-08-01,Bill from CBC Singapore,21.0
+2025-08-01,Bill from CBC Taiwan,3.0
+2025-08-01,Bill from CBC Tech HK,7.0
+2025-08-01,Bill from CNO,0.0
+2025-08-01,Bill from CNT,16.0
+2025-08-01,Bill from sinocomm,5.0
+2025-08-01,Bill from 北京紫讯,5.0
+2025-09-01,Bill from CBC China,193.0
+2025-09-01,Bill from CBC Hong Kong,95.0
+2025-09-01,Bill from CBC Singapore,24.0
+2025-09-01,Bill from CBC Taiwan,3.0
+2025-09-01,Bill from CBC Tech HK,7.0
+2025-09-01,Bill from CNO,1.0
+2025-09-01,Bill from CNT,19.0
+2025-09-01,Bill from sinocomm,7.0
+2025-09-01,Bill from 北京紫讯,4.0
+2025-10-01,Bill from CBC China,184.0
+2025-10-01,Bill from CBC Hong Kong,96.0
+2025-10-01,Bill from CBC Singapore,24.0
+2025-10-01,Bill from CBC Taiwan,3.0
+2025-10-01,Bill from CBC Tech HK,7.0
+2025-10-01,Bill from CNO,1.0
+2025-10-01,Bill from CNT,18.0
+2025-10-01,Bill from sinocomm,9.0
+2025-10-01,Bill from 北京紫讯,4.0
+2025-11-01,Bill from CBC China,192.0
+2025-11-01,Bill from CBC Hong Kong,96.0
+2025-11-01,Bill from CBC Singapore,25.0
+2025-11-01,Bill from CBC Taiwan,3.0
+2025-11-01,Bill from CBC Tech HK,6.0
+2025-11-01,Bill from CNO,1.0
+2025-11-01,Bill from CNT,18.0
+2025-11-01,Bill from sinocomm,6.0
+2025-11-01,Bill from 北京紫讯,3.0
+2025-12-01,Bill from CBC China,205.0
+2025-12-01,Bill from CBC Hong Kong,100.0
+2025-12-01,Bill from CBC Singapore,30.0
+2025-12-01,Bill from CBC Taiwan,4.0
+2025-12-01,Bill from CBC Tech HK,7.0
+2025-12-01,Bill from CNO,1.0
+2025-12-01,Bill from CNT,19.0
+2025-12-01,Bill from sinocomm,7.0
+2025-12-01,Bill from 北京紫讯,3.0

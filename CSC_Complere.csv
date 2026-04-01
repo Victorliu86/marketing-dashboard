@@ -1,0 +1,510 @@
+Parameter,Date,Value
+Cloud,2022-07-01,25
+DIA,2022-07-01,155
+DSL,2022-07-01,61
+Fault cases,2022-07-01,537
+MPLS VPN,2022-07-01,161
+MTTR - Internet (hour),2022-07-01,2.56
+MTTR - Private Line (hour),2022-07-01,1.92
+Major Incident 1 Recovery (hour),2022-07-01,0.88
+Major Incident 2 Recovery (hour),2022-07-01,1.6
+Major incidents,2022-07-01,2
+Order dispatched,2022-07-01,12
+PLC,2022-07-01,57
+Cloud,2022-08-01,27
+DIA,2022-08-01,178
+DSL,2022-08-01,87
+Fault cases,2022-08-01,504
+MPLS VPN,2022-08-01,105
+MTTR - Internet (hour),2022-08-01,2.05
+MTTR - Private Line (hour),2022-08-01,1.47
+Major Incident 1 Recovery (hour),2022-08-01,3.13
+Major Incident 2 Recovery (hour),2022-08-01,0.17
+Major incidents,2022-08-01,2
+Order dispatched,2022-08-01,10
+PLC,2022-08-01,49
+Cloud,2022-09-01,20
+DIA,2022-09-01,204
+DSL,2022-09-01,83
+Fault cases,2022-09-01,585
+MPLS VPN,2022-09-01,163
+MTTR - Internet (hour),2022-09-01,2.1
+MTTR - Private Line (hour),2022-09-01,1.97
+Major Incident 1 Recovery (hour),2022-09-01,＜2
+Major incidents,2022-09-01,6
+Order dispatched,2022-09-01,16
+PLC,2022-09-01,61
+Cloud,2022-10-01,86
+DIA,2022-10-01,151
+DSL,2022-10-01,52
+Fault cases,2022-10-01,540
+MPLS VPN,2022-10-01,132
+MTTR - Internet (hour),2022-10-01,2.05
+MTTR - Private Line (hour),2022-10-01,5.46
+Major Incident 1 Recovery (hour),2022-10-01,＜1
+Major incidents,2022-10-01,3
+Order dispatched,2022-10-01,7
+PLC,2022-10-01,43
+Cloud,2022-11-01,96.0
+DIA,2022-11-01,158.0
+DSL,2022-11-01,71.0
+Fault cases,2022-11-01,479.0
+MPLS VPN,2022-11-01,100.0
+MTTR - Internet (hour),2022-11-01,4.14
+MTTR - Private Line (hour),2022-11-01,2.96
+Major Incident 1 Recovery (hour),2022-11-01,2.0
+Major incidents,2022-11-01,1.0
+Order dispatched,2022-11-01,11.0
+PLC,2022-11-01,56.0
+Cloud,2022-12-01,39.0
+DIA,2022-12-01,118.0
+DSL,2022-12-01,65.0
+Fault cases,2022-12-01,360.0
+MPLS VPN,2022-12-01,94.0
+MTTR - Internet (hour),2022-12-01,2.24
+MTTR - Private Line (hour),2022-12-01,1.94
+Major Incident 1 Recovery (hour),2022-12-01,0.0
+Major incidents,2022-12-01,0.0
+Order dispatched,2022-12-01,6.0
+PLC,2022-12-01,44.0
+Cloud,2023-01-01,69.0
+DIA,2023-01-01,145.0
+DSL,2023-01-01,76.0
+Fault cases,2023-01-01,420.0
+MPLS VPN,2023-01-01,89.0
+MTTR - Internet (hour),2023-01-01,2.87
+MTTR - Private Line (hour),2023-01-01,3.04
+Major Incident 1 Recovery (hour),2023-01-01,0.25
+Major incidents,2023-01-01,1.0
+Order dispatched,2023-01-01,10.0
+PLC,2023-01-01,27.0
+Cloud,2023-02-01,77.0
+DIA,2023-02-01,187.0
+DSL,2023-02-01,46.0
+Fault cases,2023-02-01,461.0
+MPLS VPN,2023-02-01,80.0
+MTTR - Internet (hour),2023-02-01,1.88
+MTTR - Private Line (hour),2023-02-01,5.73
+Major Incident 1 Recovery (hour),2023-02-01,0.0
+Major incidents,2023-02-01,0.0
+Order dispatched,2023-02-01,4.0
+PLC,2023-02-01,45.0
+Cloud,2023-03-01,105.0
+DIA,2023-03-01,183.0
+DSL,2023-03-01,64.0
+Fault cases,2023-03-01,534.0
+MPLS VPN,2023-03-01,108.0
+MTTR - Internet (hour),2023-03-01,3.14
+MTTR - Private Line (hour),2023-03-01,2.98
+Major Incident 1 Recovery (hour),2023-03-01,0.0
+Major incidents,2023-03-01,0.0
+Order dispatched,2023-03-01,7.0
+PLC,2023-03-01,65.0
+Cloud,2023-04-01,66.0
+DIA,2023-04-01,133.0
+DSL,2023-04-01,70.0
+Fault cases,2023-04-01,417.0
+MPLS VPN,2023-04-01,83.0
+MTTR - Internet (hour),2023-04-01,4.99
+MTTR - Private Line (hour),2023-04-01,5.3
+Major Incident 1 Recovery (hour),2023-04-01,0.0
+Major incidents,2023-04-01,0.0
+Order dispatched,2023-04-01,5.0
+PLC,2023-04-01,47.0
+Cloud,2023-05-01,76.0
+DIA,2023-05-01,146.0
+DSL,2023-05-01,59.0
+Fault cases,2023-05-01,451.0
+MPLS VPN,2023-05-01,95.0
+MTTR - Internet (hour),2023-05-01,3.49
+MTTR - Private Line (hour),2023-05-01,4.71
+Major Incident 1 Recovery (hour),2023-05-01,0.0
+Major incidents,2023-05-01,0.0
+Order dispatched,2023-05-01,9.0
+PLC,2023-05-01,33.0
+Cloud,2023-06-01,121.0
+DIA,2023-06-01,144.0
+DSL,2023-06-01,80.0
+Fault cases,2023-06-01,500.0
+MPLS VPN,2023-06-01,105.0
+MTTR - Internet (hour),2023-06-01,4.75
+MTTR - Private Line (hour),2023-06-01,4.24
+Major Incident 1 Recovery (hour),2023-06-01,0.0
+Major incidents,2023-06-01,0.0
+Order dispatched,2023-06-01,11.0
+PLC,2023-06-01,35.0
+Cloud,2023-07-01,123.0
+DIA,2023-07-01,144.0
+DSL,2023-07-01,63.0
+Fault cases,2023-07-01,630.0
+MPLS VPN,2023-07-01,173.0
+MTTR - Internet (hour),2023-07-01,4.53
+MTTR - Private Line (hour),2023-07-01,2.54
+Major Incident 1 Recovery (hour),2023-07-01,0.0
+Major incidents,2023-07-01,0.0
+Order dispatched,2023-07-01,7.0
+PLC,2023-07-01,115.0
+Cloud,2023-08-01,34
+DIA,2023-08-01,205
+DSL,2023-08-01,90
+Fault cases,2023-08-01,740
+MPLS VPN,2023-08-01,144
+MTTR - Internet (hour),2023-08-01,4.74
+MTTR - Private Line (hour),2023-08-01,3.55
+Major Incident 1 Recovery (hour),2023-08-01,-
+Major incidents,2023-08-01,4
+Order dispatched,2023-08-01,9
+PLC,2023-08-01,133
+Cloud,2023-09-01,24
+DIA,2023-09-01,142
+DSL,2023-09-01,80
+Fault cases,2023-09-01,588
+MPLS VPN,2023-09-01,132
+MTTR - Internet (hour),2023-09-01,3.41
+MTTR - Private Line (hour),2023-09-01,8.14
+Major Incident 1 Recovery (hour),2023-09-01,0.38
+Major Incident 2 Recovery (hour),2023-09-01,0.08
+Major incidents,2023-09-01,2
+Order dispatched,2023-09-01,3
+PLC,2023-09-01,109
+Cloud,2023-10-01,27.0
+DIA,2023-10-01,164.0
+DSL,2023-10-01,49.0
+Fault cases,2023-10-01,601.0
+MPLS VPN,2023-10-01,126.0
+MTTR - Internet (hour),2023-10-01,3.29
+MTTR - Private Line (hour),2023-10-01,3.61
+Major Incident 1 Recovery (hour),2023-10-01,0.7
+Major incidents,2023-10-01,1.0
+Order dispatched,2023-10-01,7.0
+PLC,2023-10-01,132.0
+Cloud,2023-11-01,24
+DIA,2023-11-01,195
+DSL,2023-11-01,80
+Fault cases,2023-11-01,705
+MPLS VPN,2023-11-01,164
+MTTR - Internet (hour),2023-11-01,1.76
+MTTR - Private Line (hour),2023-11-01,3.35
+Major Incident 1 Recovery (hour),2023-11-01,0.25
+Major Incident 2 Recovery (hour),2023-11-01,10.0
+Major incidents,2023-11-01,2
+Order dispatched,2023-11-01,5
+PLC,2023-11-01,126
+Cloud,2023-12-01,22.0
+DIA,2023-12-01,157.0
+DSL,2023-12-01,62.0
+Fault cases,2023-12-01,587.0
+MPLS VPN,2023-12-01,122.0
+MTTR - Internet (hour),2023-12-01,1.71
+MTTR - Private Line (hour),2023-12-01,2.31
+Major Incident 1 Recovery (hour),2023-12-01,0.0
+Major incidents,2023-12-01,0.0
+Order dispatched,2023-12-01,5.0
+PLC,2023-12-01,121.0
+Cloud,2024-01-01,42.0
+DIA,2024-01-01,180.0
+DSL,2024-01-01,76.0
+Fault cases,2024-01-01,647.0
+MPLS VPN,2024-01-01,119.0
+MTTR - Internet (hour),2024-01-01,1.19
+MTTR - Private Line (hour),2024-01-01,1.59
+Major Incident 1 Recovery (hour),2024-01-01,0.0
+Major incidents,2024-01-01,0.0
+Order dispatched,2024-01-01,3.0
+PLC,2024-01-01,113.0
+Cloud,2024-02-01,25.0
+DIA,2024-02-01,76.0
+DSL,2024-02-01,39.0
+Fault cases,2024-02-01,345.0
+MPLS VPN,2024-02-01,85.0
+MTTR - Internet (hour),2024-02-01,1.54
+MTTR - Private Line (hour),2024-02-01,2.71
+Major Incident 1 Recovery (hour),2024-02-01,0.0
+Major incidents,2024-02-01,0.0
+Order dispatched,2024-02-01,2.0
+PLC,2024-02-01,46.0
+Cloud,2024-03-01,27.0
+DIA,2024-03-01,129.0
+DSL,2024-03-01,44.0
+Fault cases,2024-03-01,519.0
+MPLS VPN,2024-03-01,111.0
+MTTR - Internet (hour),2024-03-01,0.72
+MTTR - Private Line (hour),2024-03-01,6.5
+Major Incident 1 Recovery (hour),2024-03-01,2.0
+Major incidents,2024-03-01,1.0
+Order dispatched,2024-03-01,4.0
+PLC,2024-03-01,104.0
+Cloud,2024-04-01,35.0
+DIA,2024-04-01,144.0
+DSL,2024-04-01,55.0
+Fault cases,2024-04-01,659.0
+MPLS VPN,2024-04-01,154.0
+MTTR - Internet (hour),2024-04-01,1.56
+MTTR - Private Line (hour),2024-04-01,2.97
+Major Incident 1 Recovery (hour),2024-04-01,1.25
+Major incidents,2024-04-01,1.0
+Order dispatched,2024-04-01,7.0
+PLC,2024-04-01,127.0
+Cloud,2024-05-01,22.0
+DIA,2024-05-01,173.0
+DSL,2024-05-01,51.0
+Fault cases,2024-05-01,633.0
+MPLS VPN,2024-05-01,146.0
+MTTR - Internet (hour),2024-05-01,1.91
+MTTR - Private Line (hour),2024-05-01,3.15
+Major Incident 1 Recovery (hour),2024-05-01,1.68
+Major incidents,2024-05-01,1.0
+Order dispatched,2024-05-01,11.0
+PLC,2024-05-01,101.0
+Cloud,2024-06-01,19.0
+DIA,2024-06-01,162.0
+DSL,2024-06-01,56.0
+Fault cases,2024-06-01,605.0
+MPLS VPN,2024-06-01,150.0
+MTTR - Internet (hour),2024-06-01,1.59
+MTTR - Private Line (hour),2024-06-01,1.87
+Major Incident 1 Recovery (hour),2024-06-01,0.0
+Major incidents,2024-06-01,0.0
+Order dispatched,2024-06-01,8.0
+PLC,2024-06-01,99.0
+Cloud,2024-07-01,45.0
+DIA,2024-07-01,133.0
+DSL,2024-07-01,62.0
+Fault cases,2024-07-01,666.0
+MPLS VPN,2024-07-01,146.0
+MTTR - Internet (hour),2024-07-01,2.32
+MTTR - Private Line (hour),2024-07-01,1.77
+Major Incident 1 Recovery (hour),2024-07-01,1.0
+Major incidents,2024-07-01,2.0
+Order dispatched,2024-07-01,11.0
+PLC,2024-07-01,124.0
+Cloud,2024-08-01,35.0
+DIA,2024-08-01,199.0
+DSL,2024-08-01,48.0
+Fault cases,2024-08-01,633.0
+MPLS VPN,2024-08-01,94.0
+MTTR - Internet (hour),2024-08-01,1.98
+MTTR - Private Line (hour),2024-08-01,5.73
+Major Incident 1 Recovery (hour),2024-08-01,0.0
+Major incidents,2024-08-01,1.0
+Order dispatched,2024-08-01,3.0
+PLC,2024-08-01,104.0
+Cloud,2024-09-01,29.0
+DIA,2024-09-01,126.0
+DSL,2024-09-01,46.0
+Fault cases,2024-09-01,593.0
+MPLS VPN,2024-09-01,119.0
+MTTR - Internet (hour),2024-09-01,2.19
+MTTR - Private Line (hour),2024-09-01,5.58
+Major Incident 1 Recovery (hour),2024-09-01,0.5
+Major incidents,2024-09-01,2.0
+Order dispatched,2024-09-01,12.0
+PLC,2024-09-01,115.0
+Cloud,2024-10-01,39.0
+DIA,2024-10-01,172.0
+DSL,2024-10-01,34.0
+Fault cases,2024-10-01,657.0
+MPLS VPN,2024-10-01,110.0
+MTTR - Internet (hour),2024-10-01,2.39
+MTTR - Private Line (hour),2024-10-01,1.29
+Major Incident 1 Recovery (hour),2024-10-01,1.3
+Major incidents,2024-10-01,1.0
+Order dispatched,2024-10-01,4.0
+PLC,2024-10-01,108.0
+Cloud,2024-11-01,52.0
+DIA,2024-11-01,167.0
+DSL,2024-11-01,48.0
+Fault cases,2024-11-01,741.0
+MPLS VPN,2024-11-01,102.0
+MTTR - Internet (hour),2024-11-01,1.32
+MTTR - Private Line (hour),2024-11-01,2.22
+Major Incident 1 Recovery (hour),2024-11-01,2.0
+Major incidents,2024-11-01,1.0
+Order dispatched,2024-11-01,7.0
+PLC,2024-11-01,118.0
+Cloud,2024-12-01,48.0
+DIA,2024-12-01,158.0
+DSL,2024-12-01,57.0
+Fault cases,2024-12-01,693.0
+MPLS VPN,2024-12-01,102.0
+MTTR - Internet (hour),2024-12-01,2.64
+MTTR - Private Line (hour),2024-12-01,2.96
+Major Incident 1 Recovery (hour),2024-12-01,2.38
+Major incidents,2024-12-01,3.0
+Order dispatched,2024-12-01,5.0
+PLC,2024-12-01,99.0
+Cloud,2025-01-01,119
+DIA,2025-01-01,122
+DSL,2025-01-01,41
+Fault cases,2025-01-01,641
+MPLS VPN,2025-01-01,104
+MTTR - Internet (hour),2025-01-01,2.87
+MTTR - Private Line (hour),2025-01-01,3.96
+Major Incident 1 Recovery (hour),2025-01-01,0.0
+Major Incident 1 Recovery (hour),2025-01-01,0
+Major incidents,2025-01-01,0
+Order dispatched,2025-01-01,14
+PLC,2025-01-01,104
+Cloud,2025-02-01,109
+DIA,2025-02-01,109
+DSL,2025-02-01,30
+Fault cases,2025-02-01,566
+MPLS VPN,2025-02-01,74
+MTTR - Internet (hour),2025-02-01,4.0
+MTTR - Private Line (hour),2025-02-01,3.4
+Major Incident 1 Recovery (hour),2025-02-01,0.0
+Major Incident 1 Recovery (hour),2025-02-01,0
+Major incidents,2025-02-01,0
+Order dispatched,2025-02-01,4
+PLC,2025-02-01,95
+Cloud,2025-03-01,
+Cloud,2025-03-01,109
+DIA,2025-03-01,
+DIA,2025-03-01,152
+DSL,2025-03-01,
+DSL,2025-03-01,30
+Fault cases,2025-03-01,
+Fault cases,2025-03-01,630
+MPLS VPN,2025-03-01,
+MPLS VPN,2025-03-01,111
+MTTR - Internet (hour),2025-03-01,
+MTTR - Internet (hour),2025-03-01,3.7
+MTTR - Private Line (hour),2025-03-01,
+MTTR - Private Line (hour),2025-03-01,6.41
+Major Incident 1 Recovery (hour),2025-03-01,
+Major Incident 1 Recovery (hour),2025-03-01,0
+Major incidents,2025-03-01,
+Major incidents,2025-03-01,0
+Order dispatched,2025-03-01,
+Order dispatched,2025-03-01,6
+PLC,2025-03-01,
+PLC,2025-03-01,92
+Cloud,2025-04-01,148
+DIA,2025-04-01,187
+DSL,2025-04-01,41
+Fault cases,2025-04-01,800
+MPLS VPN,2025-04-01,107
+MTTR - Internet (hour),2025-04-01,3.98
+MTTR - Private Line (hour),2025-04-01,4.38
+Major Incident 1 Recovery (hour),2025-04-01,1.17
+Major incidents,2025-04-01,1
+Order dispatched,2025-04-01,9
+PLC,2025-04-01,159
+Cloud,2025-05-01,113
+DIA,2025-05-01,165
+DSL,2025-05-01,38
+Fault cases,2025-05-01,695
+MPLS VPN,2025-05-01,117
+MTTR - Internet (hour),2025-05-01,4.03
+MTTR - Private Line (hour),2025-05-01,4.46
+Major Incident 1 Recovery (hour),2025-05-01,1.33
+Major incidents,2025-05-01,1
+Order dispatched,2025-05-01,3
+PLC,2025-05-01,135
+Cloud,2025-06-01,102
+DIA,2025-06-01,175
+DSL,2025-06-01,38
+Fault cases,2025-06-01,732
+MPLS VPN,2025-06-01,108
+MTTR - Internet (hour),2025-06-01,4.82
+MTTR - Private Line (hour),2025-06-01,1.61
+Major Incident 1 Recovery (hour),2025-06-01,1.0
+Major Incident 2 Recovery (hour),2025-06-01,0.5
+Major Incident 3 Recovery (hour),2025-06-01,0.25
+Major incidents,2025-06-01,3
+Order dispatched,2025-06-01,6
+PLC,2025-06-01,139
+Cloud,2025-07-01,147
+DIA,2025-07-01,201
+DSL,2025-07-01,58
+Fault cases,2025-07-01,882
+MPLS VPN,2025-07-01,115
+MTTR - Internet (hour),2025-07-01,2.27
+MTTR - Private Line (hour),2025-07-01,4.31
+Major Incident 1 Recovery (hour),2025-07-01,0
+Major incidents,2025-07-01,0
+Order dispatched,2025-07-01,10
+PLC,2025-07-01,169
+Cloud,2025-08-01,124
+DIA,2025-08-01,152
+DSL,2025-08-01,56
+Fault cases,2025-08-01,723
+MPLS VPN,2025-08-01,90
+MTTR - Internet (hour),2025-08-01,3.53
+MTTR - Private Line (hour),2025-08-01,3.42
+Major Incident 1 Recovery (hour),2025-08-01,4.0
+Major Incident 2 Recovery (hour),2025-08-01,0.5
+Major Incident 3 Recovery (hour),2025-08-01,1.0
+Major incidents,2025-08-01,3
+Order dispatched,2025-08-01,5
+PLC,2025-08-01,93
+Cloud,2025-09-01,106
+DIA,2025-09-01,167
+DSL,2025-09-01,46
+Fault cases,2025-09-01,709
+MPLS VPN,2025-09-01,85
+MTTR - Internet (hour),2025-09-01,2.11
+MTTR - Private Line (hour),2025-09-01,4.03
+Major Incident 1 Recovery (hour),2025-09-01,4.5
+Major Incident 2 Recovery (hour),2025-09-01,2.5
+Major incidents,2025-09-01,2
+Order dispatched,2025-09-01,4
+PLC,2025-09-01,123
+Cloud,2025-10-01,39
+DIA,2025-10-01,172
+DSL,2025-10-01,34
+Fault cases,2025-10-01,657
+MPLS VPN,2025-10-01,110
+MTTR - Internet (hour),2025-10-01,2.39
+MTTR - Private Line (hour),2025-10-01,1.29
+Major Incident 1 Recovery (hour),2025-10-01,1.3
+Major incidents,2025-10-01,1
+Order dispatched,2025-10-01,4
+PLC,2025-10-01,108
+Cloud,2025-11-01,116
+DIA,2025-11-01,143
+DSL,2025-11-01,28
+Fault cases,2025-11-01,659
+MPLS VPN,2025-11-01,91
+MTTR - Internet (hour),2025-11-01,1.99
+MTTR - Private Line (hour),2025-11-01,2.08
+Major Incident 1 Recovery (hour),2025-11-01,0.16
+Major Incident 2 Recovery (hour),2025-11-01,1.0
+Major Incident 3 Recovery (hour),2025-11-01,1.12
+Major incidents,2025-11-01,3
+Order dispatched,2025-11-01,8
+PLC,2025-11-01,102
+Cloud,2025-12-01,119
+DIA,2025-12-01,146
+DSL,2025-12-01,57
+Fault cases,2025-12-01,648
+MPLS VPN,2025-12-01,83
+MTTR - Internet (hour),2025-12-01,1.59
+MTTR - Private Line (hour),2025-12-01,1.76
+Major Incident 1 Recovery (hour),2025-12-01,0
+Major incidents,2025-12-01,0
+Order dispatched,2025-12-01,11
+PLC,2025-12-01,81
+Cloud,2026-01-01,132
+DIA,2026-01-01,112
+DSL,2026-01-01,40
+Fault cases,2026-01-01,649
+MPLS VPN,2026-01-01,68
+MTTR - Internet (hour),2026-01-01,2.38
+MTTR - Private Line (hour),2026-01-01,3.15
+Major Incident 1 Recovery (hour),2026-01-01,0
+Major incidents,2026-01-01,0
+Order dispatched,2026-01-01,6
+PLC,2026-01-01,113
+Cloud,2026-02-01,130
+DIA,2026-02-01,111
+DSL,2026-02-01,39
+Fault cases,2026-02-01,538
+MPLS VPN,2026-02-01,36
+MTTR - Internet (hour),2026-02-01,2.14
+MTTR - Private Line (hour),2026-02-01,1.92
+Major Incident 1 Recovery (hour),2026-02-01,2.0
+Major Incident 2 Recovery (hour),2026-02-01,2.0
+Major incidents,2026-02-01,2
+Order dispatched,2026-02-01,5
+PLC,2026-02-01,62

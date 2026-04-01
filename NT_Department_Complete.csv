@@ -1,0 +1,265 @@
+Date,Parameter,Value
+2022-07-01,DIA order disconnected,11
+2022-07-01,MPLS VPN order disconnected,28
+2022-07-01,New DIA order installed,12
+2022-07-01,New MPLS VPN order installed,7
+2022-07-01,New PLC order installed,9
+2022-07-01,PLC order disconnected,2
+2022-08-01,DIA order disconnected,11
+2022-08-01,MPLS VPN order disconnected,21
+2022-08-01,New DIA order installed,24
+2022-08-01,New MPLS VPN order installed,13
+2022-08-01,New PLC order installed,12
+2022-08-01,PLC order disconnected,3
+2022-09-01,DIA order disconnected,8
+2022-09-01,MPLS VPN order disconnected,8
+2022-09-01,New DIA order installed,18
+2022-09-01,New MPLS VPN order installed,11
+2022-09-01,New PLC order installed,23
+2022-09-01,PLC order disconnected,7
+2022-10-01,DIA order disconnected,707
+2022-10-01,MPLS VPN order disconnected,83
+2022-10-01,New DIA order installed,5
+2022-10-01,New MPLS VPN order installed,44
+2022-10-01,New PLC order installed,2
+2022-10-01,PLC order disconnected,468
+2022-11-01,DIA order disconnected,3
+2022-11-01,MPLS VPN order disconnected,11
+2022-11-01,New DIA order installed,13
+2022-11-01,New MPLS VPN order installed,12
+2022-11-01,New PLC order installed,19
+2022-11-01,PLC order disconnected,7
+2022-12-01,DIA order disconnected,21
+2022-12-01,MPLS VPN order disconnected,21
+2022-12-01,New DIA order installed,15
+2022-12-01,New MPLS VPN order installed,17
+2022-12-01,New PLC order installed,12
+2022-12-01,PLC order disconnected,2
+2023-01-01,DIA order disconnected,6
+2023-01-01,MPLS VPN order disconnected,5
+2023-01-01,New DIA order installed,7
+2023-01-01,New MPLS VPN order installed,9
+2023-01-01,New PLC order installed,7
+2023-01-01,PLC order disconnected,5
+2023-02-01,DIA order disconnected,2
+2023-02-01,MPLS VPN order disconnected,7
+2023-02-01,New DIA order installed,4
+2023-02-01,New MPLS VPN order installed,31
+2023-02-01,New PLC order installed,9
+2023-02-01,PLC order disconnected,5
+2023-03-01,DIA order disconnected,8
+2023-03-01,MPLS VPN order disconnected,23
+2023-03-01,New DIA order installed,9
+2023-03-01,New MPLS VPN order installed,7
+2023-03-01,New PLC order installed,9
+2023-03-01,PLC order disconnected,7
+2023-04-01,DIA order disconnected,12
+2023-04-01,MPLS VPN order disconnected,12
+2023-04-01,New DIA order installed,5
+2023-04-01,New MPLS VPN order installed,10
+2023-04-01,New PLC order installed,17
+2023-04-01,PLC order disconnected,13
+2023-05-01,DIA order disconnected,1
+2023-05-01,MPLS VPN order disconnected,4
+2023-05-01,New DIA order installed,23
+2023-05-01,New MPLS VPN order installed,30
+2023-05-01,New PLC order installed,8
+2023-05-01,PLC order disconnected,17
+2023-06-01,DIA order disconnected,6
+2023-06-01,MPLS VPN order disconnected,4
+2023-06-01,New DIA order installed,15
+2023-06-01,New MPLS VPN order installed,19
+2023-06-01,New PLC order installed,24
+2023-06-01,PLC order disconnected,4
+2023-07-01,DIA order disconnected,4
+2023-07-01,MPLS VPN order disconnected,29
+2023-07-01,New DIA order installed,11
+2023-07-01,New MPLS VPN order installed,13
+2023-07-01,New PLC order installed,30
+2023-07-01,PLC order disconnected,8
+2023-08-01,DIA order disconnected,11
+2023-08-01,MPLS VPN order disconnected,12
+2023-08-01,New DIA order installed,17
+2023-08-01,New MPLS VPN order installed,14
+2023-08-01,New PLC order installed,12
+2023-08-01,PLC order disconnected,13
+2023-09-01,DIA order disconnected,1
+2023-09-01,MPLS VPN order disconnected,13
+2023-09-01,New DIA order installed,14
+2023-09-01,New MPLS VPN order installed,17
+2023-09-01,New PLC order installed,14
+2023-09-01,PLC order disconnected,9
+2023-10-01,DIA order disconnected,5
+2023-10-01,MPLS VPN order disconnected,15
+2023-10-01,New DIA order installed,13
+2023-10-01,New MPLS VPN order installed,15
+2023-10-01,New PLC order installed,11
+2023-10-01,PLC order disconnected,13
+2023-11-01,DIA order disconnected,24
+2023-11-01,MPLS VPN order disconnected,17
+2023-11-01,New DIA order installed,14
+2023-11-01,New MPLS VPN order installed,13
+2023-11-01,New PLC order installed,11
+2023-11-01,PLC order disconnected,8
+2023-12-01,DIA order disconnected,10
+2023-12-01,MPLS VPN order disconnected,14
+2023-12-01,New DIA order installed,33
+2023-12-01,New MPLS VPN order installed,8
+2023-12-01,New PLC order installed,19
+2023-12-01,PLC order disconnected,19
+2024-01-01,DIA order disconnected,4
+2024-01-01,MPLS VPN order disconnected,16
+2024-01-01,New DIA order installed,17
+2024-01-01,New MPLS VPN order installed,19
+2024-01-01,New PLC order installed,13
+2024-01-01,PLC order disconnected,9
+2024-02-01,DIA order disconnected,4
+2024-02-01,MPLS VPN order disconnected,11
+2024-02-01,New DIA order installed,10
+2024-02-01,New MPLS VPN order installed,11
+2024-02-01,New PLC order installed,7
+2024-02-01,PLC order disconnected,5
+2024-03-01,DIA order disconnected,4
+2024-03-01,MPLS VPN order disconnected,11
+2024-03-01,New DIA order installed,10
+2024-03-01,New MPLS VPN order installed,11
+2024-03-01,New PLC order installed,7
+2024-03-01,PLC order disconnected,5
+2024-04-01,DIA order disconnected,5
+2024-04-01,MPLS VPN order disconnected,14
+2024-04-01,New DIA order installed,8
+2024-04-01,New MPLS VPN order installed,16
+2024-04-01,New PLC order installed,9
+2024-04-01,PLC order disconnected,3
+2024-05-01,DIA order disconnected,15
+2024-05-01,MPLS VPN order disconnected,19
+2024-05-01,New DIA order installed,19
+2024-05-01,New MPLS VPN order installed,9
+2024-05-01,New PLC order installed,19
+2024-05-01,PLC order disconnected,5
+2024-06-01,DIA order disconnected,6
+2024-06-01,MPLS VPN order disconnected,20
+2024-06-01,New DIA order installed,23
+2024-06-01,New MPLS VPN order installed,15
+2024-06-01,New PLC order installed,21
+2024-06-01,PLC order disconnected,3
+2024-07-01,DIA order disconnected,4
+2024-07-01,MPLS VPN order disconnected,20
+2024-07-01,New DIA order installed,19
+2024-07-01,New MPLS VPN order installed,3
+2024-07-01,New PLC order installed,20
+2024-07-01,PLC order disconnected,5
+2024-08-01,DIA order disconnected,8
+2024-08-01,MPLS VPN order disconnected,30
+2024-08-01,New DIA order installed,33
+2024-08-01,New MPLS VPN order installed,6
+2024-08-01,New PLC order installed,36
+2024-08-01,PLC order disconnected,1
+2024-09-01,DIA order disconnected,9
+2024-09-01,MPLS VPN order disconnected,11
+2024-09-01,New DIA order installed,16
+2024-09-01,New MPLS VPN order installed,10
+2024-09-01,New PLC order installed,21
+2024-09-01,PLC order disconnected,6
+2024-10-01,DIA order disconnected,4
+2024-10-01,MPLS VPN order disconnected,9
+2024-10-01,New DIA order installed,21
+2024-10-01,New MPLS VPN order installed,11
+2024-10-01,New PLC order installed,17
+2024-10-01,PLC order disconnected,6
+2024-11-01,DIA order disconnected,13
+2024-11-01,MPLS VPN order disconnected,17
+2024-11-01,New DIA order installed,14
+2024-11-01,New MPLS VPN order installed,28
+2024-11-01,New PLC order installed,27
+2024-11-01,PLC order disconnected,4
+2024-12-01,DIA order disconnected,12
+2024-12-01,MPLS VPN order disconnected,3
+2024-12-01,New DIA order installed,38
+2024-12-01,New MPLS VPN order installed,24
+2024-12-01,New PLC order installed,40
+2024-12-01,PLC order disconnected,11
+2025-01-01,DIA order disconnected,1
+2025-01-01,MPLS VPN order disconnected,31
+2025-01-01,New DIA order installed,12
+2025-01-01,New MPLS VPN order installed,20
+2025-01-01,New PLC order installed,14
+2025-01-01,PLC order disconnected,5
+2025-02-01,DIA order disconnected,1
+2025-02-01,MPLS VPN order disconnected,2
+2025-02-01,New DIA order installed,29
+2025-02-01,New MPLS VPN order installed,11
+2025-02-01,New PLC order installed,34
+2025-02-01,PLC order disconnected,3
+2025-03-01,DIA order disconnected,13
+2025-03-01,MPLS VPN order disconnected,17
+2025-03-01,New DIA order installed,14
+2025-03-01,New MPLS VPN order installed,28
+2025-03-01,New PLC order installed,27
+2025-03-01,PLC order disconnected,4
+2025-04-01,DIA order disconnected,28
+2025-04-01,MPLS VPN order disconnected,44
+2025-04-01,New DIA order installed,12
+2025-04-01,New MPLS VPN order installed,14
+2025-04-01,New PLC order installed,20
+2025-04-01,PLC order disconnected,13
+2025-05-01,DIA order disconnected,19
+2025-05-01,MPLS VPN order disconnected,18
+2025-05-01,New DIA order installed,17
+2025-05-01,New MPLS VPN order installed,2
+2025-05-01,New PLC order installed,32
+2025-05-01,PLC order disconnected,20
+2025-06-01,DIA order disconnected,11
+2025-06-01,MPLS VPN order disconnected,18
+2025-06-01,New DIA order installed,21
+2025-06-01,New MPLS VPN order installed,8
+2025-06-01,New PLC order installed,38
+2025-06-01,PLC order disconnected,10
+2025-07-01,DIA order disconnected,19
+2025-07-01,MPLS VPN order disconnected,21
+2025-07-01,New DIA order installed,12
+2025-07-01,New MPLS VPN order installed,13
+2025-07-01,New PLC order installed,20
+2025-07-01,PLC order disconnected,20
+2025-08-01,DIA order disconnected,18
+2025-08-01,MPLS VPN order disconnected,22
+2025-08-01,New DIA order installed,9
+2025-08-01,New MPLS VPN order installed,2
+2025-08-01,New PLC order installed,20
+2025-08-01,PLC order disconnected,12
+2025-09-01,DIA order disconnected,15
+2025-09-01,MPLS VPN order disconnected,13
+2025-09-01,New DIA order installed,14
+2025-09-01,New MPLS VPN order installed,6
+2025-09-01,New PLC order installed,25
+2025-09-01,PLC order disconnected,12
+2025-10-01,DIA order disconnected,18
+2025-10-01,MPLS VPN order disconnected,11
+2025-10-01,New DIA order installed,13
+2025-10-01,New MPLS VPN order installed,10
+2025-10-01,New PLC order installed,15
+2025-10-01,PLC order disconnected,15
+2025-11-01,DIA order disconnected,16
+2025-11-01,MPLS VPN order disconnected,18
+2025-11-01,New DIA order installed,18
+2025-11-01,New MPLS VPN order installed,4
+2025-11-01,New PLC order installed,12
+2025-11-01,PLC order disconnected,13
+2025-12-01,DIA order disconnected,13
+2025-12-01,MPLS VPN order disconnected,12
+2025-12-01,New DIA order installed,15
+2025-12-01,New MPLS VPN order installed,9
+2025-12-01,New PLC order installed,22
+2025-12-01,PLC order disconnected,24
+2026-01-01,DIA order disconnected,33
+2026-01-01,MPLS VPN order disconnected,9
+2026-01-01,New DIA order installed,7
+2026-01-01,New MPLS VPN order installed,10
+2026-01-01,New PLC order installed,28
+2026-01-01,PLC order disconnected,30
+2026-02-01,DIA order disconnected,9
+2026-02-01,MPLS VPN order disconnected,7
+2026-02-01,New DIA order installed,4
+2026-02-01,New MPLS VPN order installed,8
+2026-02-01,New PLC order installed,27
+2026-02-01,PLC order disconnected,25

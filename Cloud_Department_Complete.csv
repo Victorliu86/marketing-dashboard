@@ -1,0 +1,265 @@
+Date,Parameter,Value
+2022-07-01,Active POC,9.0
+2022-07-01,ECR for billed customers,432.0
+2022-07-01,Fault cases reported by CS,7.0
+2022-07-01,New eNet Order,18.0
+2022-07-01,eNet order delivered,11.0
+2022-07-01,uCPE for billed customers,635.0
+2022-08-01,Active POC,45.0
+2022-08-01,ECR for billed customers,455.0
+2022-08-01,Fault cases reported by CS,95.0
+2022-08-01,New eNet Order,7.0
+2022-08-01,eNet order delivered,1.0
+2022-08-01,uCPE for billed customers,676.0
+2022-09-01,Active POC,48.0
+2022-09-01,ECR for billed customers,451.0
+2022-09-01,Fault cases reported by CS,109.0
+2022-09-01,New eNet Order,6.0
+2022-09-01,eNet order delivered,3.0
+2022-09-01,uCPE for billed customers,676.0
+2022-10-01,Active POC,44.0
+2022-10-01,ECR for billed customers,468.0
+2022-10-01,Fault cases reported by CS,83.0
+2022-10-01,New eNet Order,5.0
+2022-10-01,eNet order delivered,2.0
+2022-10-01,uCPE for billed customers,707.0
+2022-11-01,Active POC,55.0
+2022-11-01,ECR for billed customers,414.0
+2022-11-01,Fault cases reported by CS,70.0
+2022-11-01,New eNet Order,5.0
+2022-11-01,eNet order delivered,5.0
+2022-11-01,uCPE for billed customers,726.0
+2022-12-01,Active POC,57.0
+2022-12-01,ECR for billed customers,419.0
+2022-12-01,Fault cases reported by CS,53.0
+2022-12-01,New eNet Order,12.0
+2022-12-01,eNet order delivered,9.0
+2022-12-01,uCPE for billed customers,745.0
+2023-01-01,Active POC,59.0
+2023-01-01,ECR for billed customers,495.0
+2023-01-01,Fault cases reported by CS,84.0
+2023-01-01,New eNet Order,3.0
+2023-01-01,eNet order delivered,1.0
+2023-01-01,uCPE for billed customers,740.0
+2023-02-01,Active POC,69.0
+2023-02-01,ECR for billed customers,496.0
+2023-02-01,Fault cases reported by CS,75.0
+2023-02-01,New eNet Order,4.0
+2023-02-01,eNet order delivered,1.0
+2023-02-01,uCPE for billed customers,758.0
+2023-03-01,Active POC,69.0
+2023-03-01,ECR for billed customers,505.0
+2023-03-01,Fault cases reported by CS,59.0
+2023-03-01,New eNet Order,9.0
+2023-03-01,eNet order delivered,4.0
+2023-03-01,uCPE for billed customers,776.0
+2023-04-01,Active POC,80.0
+2023-04-01,ECR for billed customers,520.0
+2023-04-01,Fault cases reported by CS,31.0
+2023-04-01,New eNet Order,30.0
+2023-04-01,eNet order delivered,12.0
+2023-04-01,uCPE for billed customers,815.0
+2023-05-01,Active POC,80.0
+2023-05-01,ECR for billed customers,520.0
+2023-05-01,Fault cases reported by CS,31.0
+2023-05-01,New eNet Order,30.0
+2023-05-01,eNet order delivered,12.0
+2023-05-01,uCPE for billed customers,815.0
+2023-06-01,Active POC,80.0
+2023-06-01,ECR for billed customers,702.0
+2023-06-01,Fault cases reported by CS,62.0
+2023-06-01,New eNet Order,16.0
+2023-06-01,eNet order delivered,11.0
+2023-06-01,uCPE for billed customers,987.0
+2023-07-01,Active POC,82.0
+2023-07-01,ECR for billed customers,547.0
+2023-07-01,Fault cases reported by CS,76.0
+2023-07-01,New eNet Order,11.0
+2023-07-01,eNet order delivered,11.0
+2023-07-01,uCPE for billed customers,882.0
+2023-08-01,Active POC,88.0
+2023-08-01,ECR for billed customers,543.0
+2023-08-01,Fault cases reported by CS,45.0
+2023-08-01,New eNet Order,14.0
+2023-08-01,eNet order delivered,5.0
+2023-08-01,uCPE for billed customers,844.0
+2023-09-01,Active POC,108.0
+2023-09-01,ECR for billed customers,551.0
+2023-09-01,Fault cases reported by CS,78.0
+2023-09-01,New eNet Order,15.0
+2023-09-01,eNet order delivered,4.0
+2023-09-01,uCPE for billed customers,855.0
+2023-10-01,Active POC,114.0
+2023-10-01,ECR for billed customers,563.0
+2023-10-01,Fault cases reported by CS,91.0
+2023-10-01,New eNet Order,32.0
+2023-10-01,eNet order delivered,28.0
+2023-10-01,uCPE for billed customers,864.0
+2023-11-01,Active POC,121.0
+2023-11-01,ECR for billed customers,590.0
+2023-11-01,Fault cases reported by CS,100.0
+2023-11-01,New eNet Order,11.0
+2023-11-01,eNet order delivered,9.0
+2023-11-01,uCPE for billed customers,884.0
+2023-12-01,Active POC,118.0
+2023-12-01,ECR for billed customers,616.0
+2023-12-01,Fault cases reported by CS,102.0
+2023-12-01,New eNet Order,15.0
+2023-12-01,eNet order delivered,11.0
+2023-12-01,uCPE for billed customers,907.0
+2024-01-01,Active POC,115.0
+2024-01-01,ECR for billed customers,622.0
+2024-01-01,Fault cases reported by CS,125.0
+2024-01-01,New eNet Order,10.0
+2024-01-01,eNet order delivered,5.0
+2024-01-01,uCPE for billed customers,909.0
+2024-02-01,Active POC,134.0
+2024-02-01,ECR for billed customers,634.0
+2024-02-01,Fault cases reported by CS,56.0
+2024-02-01,New eNet Order,21.0
+2024-02-01,eNet order delivered,2.0
+2024-02-01,uCPE for billed customers,923.0
+2024-03-01,Active POC,156.0
+2024-03-01,ECR for billed customers,646.0
+2024-03-01,Fault cases reported by CS,129.0
+2024-03-01,New eNet Order,12.0
+2024-03-01,eNet order delivered,11.0
+2024-03-01,uCPE for billed customers,921.0
+2024-04-01,Active POC,168.0
+2024-04-01,ECR for billed customers,651.0
+2024-04-01,Fault cases reported by CS,100.0
+2024-04-01,New eNet Order,31.0
+2024-04-01,eNet order delivered,27.0
+2024-04-01,uCPE for billed customers,927.0
+2024-05-01,Active POC,159.0
+2024-05-01,ECR for billed customers,666.0
+2024-05-01,Fault cases reported by CS,67.0
+2024-05-01,New eNet Order,13.0
+2024-05-01,eNet order delivered,13.0
+2024-05-01,uCPE for billed customers,927.0
+2024-06-01,Active POC,156.0
+2024-06-01,ECR for billed customers,671.0
+2024-06-01,Fault cases reported by CS,92.0
+2024-06-01,New eNet Order,23.0
+2024-06-01,eNet order delivered,15.0
+2024-06-01,uCPE for billed customers,933.0
+2024-07-01,Active POC,151.0
+2024-07-01,ECR for billed customers,706.0
+2024-07-01,Fault cases reported by CS,85.0
+2024-07-01,New eNet Order,20.0
+2024-07-01,eNet order delivered,11.0
+2024-07-01,uCPE for billed customers,940.0
+2024-08-01,Active POC,173.0
+2024-08-01,ECR for billed customers,927.0
+2024-08-01,Fault cases reported by CS,68.0
+2024-08-01,New eNet Order,15.0
+2024-08-01,eNet order delivered,10.0
+2024-08-01,uCPE for billed customers,1100.0
+2024-09-01,Active POC,179.0
+2024-09-01,ECR for billed customers,928.0
+2024-09-01,Fault cases reported by CS,68.0
+2024-09-01,New eNet Order,19.0
+2024-09-01,eNet order delivered,7.0
+2024-09-01,uCPE for billed customers,1126.0
+2024-10-01,Active POC,215.0
+2024-10-01,ECR for billed customers,773.0
+2024-10-01,Fault cases reported by CS,93.0
+2024-10-01,New eNet Order,11.0
+2024-10-01,eNet order delivered,10.0
+2024-10-01,uCPE for billed customers,1044.0
+2024-11-01,Active POC,226.0
+2024-11-01,ECR for billed customers,805.0
+2024-11-01,Fault cases reported by CS,104.0
+2024-11-01,New eNet Order,9.0
+2024-11-01,eNet order delivered,3.0
+2024-11-01,uCPE for billed customers,1053.0
+2024-12-01,Active POC,186.0
+2024-12-01,ECR for billed customers,862.0
+2024-12-01,Fault cases reported by CS,69.0
+2024-12-01,New eNet Order,25.0
+2024-12-01,eNet order delivered,16.0
+2024-12-01,uCPE for billed customers,1088.0
+2025-01-01,Active POC,212.0
+2025-01-01,ECR for billed customers,890.0
+2025-01-01,Fault cases reported by CS,59.0
+2025-01-01,New eNet Order,13.0
+2025-01-01,eNet order delivered,5.0
+2025-01-01,uCPE for billed customers,1100.0
+2025-02-01,Active POC,203.0
+2025-02-01,ECR for billed customers,904.0
+2025-02-01,Fault cases reported by CS,95.0
+2025-02-01,New eNet Order,18.0
+2025-02-01,eNet order delivered,15.0
+2025-02-01,uCPE for billed customers,1102.0
+2025-03-01,Active POC,74.0
+2025-03-01,ECR for billed customers,918.0
+2025-03-01,Fault cases reported by CS,75.0
+2025-03-01,New eNet Order,8.0
+2025-03-01,eNet order delivered,6.0
+2025-03-01,uCPE for billed customers,1123.0
+2025-04-01,Active POC,75.0
+2025-04-01,ECR for billed customers,922.0
+2025-04-01,Fault cases reported by CS,82.0
+2025-04-01,New eNet Order,14.0
+2025-04-01,eNet order delivered,9.0
+2025-04-01,uCPE for billed customers,1132.0
+2025-05-01,Active POC,69.0
+2025-05-01,ECR for billed customers,974.0
+2025-05-01,Fault cases reported by CS,63.0
+2025-05-01,New eNet Order,23.0
+2025-05-01,eNet order delivered,17.0
+2025-05-01,uCPE for billed customers,1143.0
+2025-06-01,Active POC,60.0
+2025-06-01,ECR for billed customers,908.0
+2025-06-01,Fault cases reported by CS,81.0
+2025-06-01,New eNet Order,24.0
+2025-06-01,eNet order delivered,20.0
+2025-06-01,uCPE for billed customers,1184.0
+2025-07-01,Active POC,60.0
+2025-07-01,ECR for billed customers,997.0
+2025-07-01,Fault cases reported by CS,111.0
+2025-07-01,New eNet Order,9.0
+2025-07-01,eNet order delivered,7.0
+2025-07-01,uCPE for billed customers,1190.0
+2025-08-01,Active POC,66.0
+2025-08-01,ECR for billed customers,1013.0
+2025-08-01,Fault cases reported by CS,130.0
+2025-08-01,New eNet Order,10.0
+2025-08-01,eNet order delivered,10.0
+2025-08-01,uCPE for billed customers,1197.0
+2025-09-01,Active POC,78.0
+2025-09-01,ECR for billed customers,1024.0
+2025-09-01,Fault cases reported by CS,161.0
+2025-09-01,New eNet Order,27.0
+2025-09-01,eNet order delivered,16.0
+2025-09-01,uCPE for billed customers,1214.0
+2025-10-01,Active POC,84.0
+2025-10-01,ECR for billed customers,1065.0
+2025-10-01,Fault cases reported by CS,112.0
+2025-10-01,New eNet Order,26.0
+2025-10-01,eNet order delivered,13.0
+2025-10-01,uCPE for billed customers,1218.0
+2025-11-01,Active POC,91.0
+2025-11-01,ECR for billed customers,1071.0
+2025-11-01,Fault cases reported by CS,145.0
+2025-11-01,New eNet Order,13.0
+2025-11-01,eNet order delivered,11.0
+2025-11-01,uCPE for billed customers,1236.0
+2025-12-01,Active POC,91.0
+2025-12-01,ECR for billed customers,1071.0
+2025-12-01,Fault cases reported by CS,145.0
+2025-12-01,New eNet Order,17.0
+2025-12-01,eNet order delivered,7.0
+2025-12-01,uCPE for billed customers,1236.0
+2026-01-01,Active POC,103.0
+2026-01-01,ECR for billed customers,1083.0
+2026-01-01,Fault cases reported by CS,156.0
+2026-01-01,New eNet Order,24.0
+2026-01-01,eNet order delivered,22.0
+2026-01-01,uCPE for billed customers,1252.0
+2026-02-01,Active POC,106.0
+2026-02-01,ECR for billed customers,1095.0
+2026-02-01,Fault cases reported by CS,148.0
+2026-02-01,New eNet Order,13.0
+2026-02-01,eNet order delivered,9.0
+2026-02-01,uCPE for billed customers,1278.0
